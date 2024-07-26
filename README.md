@@ -37,3 +37,5 @@ __This C program is a Cafe Billing System designed to manage customer orders, ca
     - payment_mode(): Prints the final receipt with all details, including cancelled items and taxes.
 - Main Function: Manages the overall flow of the program, including customer information input and calling other functions as needed.
 
+# Contributing
+Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
