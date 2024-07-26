@@ -1,4 +1,4 @@
-# Customer Management System / Restaurant Billing System
+# Customer Management System || Restaurant Billing System
 
 __This C program is a Cafe Billing System designed to manage customer orders, calculate bills, apply discounts, and print receipts. The system handles order taking, item cancellation, and payment processing, making it a comprehensive solution for small cafe operations.__
 
