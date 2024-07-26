@@ -1,6 +1,6 @@
 # Customer Management System / Restaurant Billing System
 
-** This C program is a Cafe Billing System designed to manage customer orders, calculate bills, apply discounts, and print receipts. The system handles order taking, item cancellation, and payment processing, making it a comprehensive solution for small cafe operations. **
+__ This C program is a Cafe Billing System designed to manage customer orders, calculate bills, apply discounts, and print receipts. The system handles order taking, item cancellation, and payment processing, making it a comprehensive solution for small cafe operations. __
 
 
 # Features
@@ -37,5 +37,3 @@
     - payment_mode(): Prints the final receipt with all details, including cancelled items and taxes.
 - Main Function: Manages the overall flow of the program, including customer information input and calling other functions as needed.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more details.
