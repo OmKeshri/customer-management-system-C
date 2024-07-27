@@ -39,3 +39,6 @@ __This C program is a Cafe Billing System designed to manage customer orders, ca
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. Check the license file here: [LICENSE](LICENSE)
